@@ -19,4 +19,12 @@
 | :-:  | :-: |
 |`/ `  | For Home page|
 |`/cafes`  | For list all coffee information on the database|
-|`/add`  | For Information About My Publication|
+|`/add`  | For addıng a new cafe into the list.|
+
+## Features
+- Python
+- Flask
+- flask_bootstrap
+- flask_wtf
+- flask_sqlalchemy
+- wtforms
